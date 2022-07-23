@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Deployment has been done.
+          Deployment has been done successfully.
         </p>       
       </header>
     </div>
